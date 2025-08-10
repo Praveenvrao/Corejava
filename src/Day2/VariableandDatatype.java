@@ -8,6 +8,8 @@ public class VariableandDatatype {
 		int a = 100;
 		double d = 4.5;
 		String Name = "John";
+		float f = 34.576f;
+		long L = 2434343443l;
 		System.out.println("My name is "+ Name + "And roll number is "+ a);
 		System.out.println("John has "+ a + " Cars");
 
