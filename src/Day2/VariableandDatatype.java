@@ -9,6 +9,7 @@ public class VariableandDatatype {
 		double d = 4.5;
 		String Name = "John";
 		System.out.println("My name is "+ Name + "And roll number is "+ a);
+		System.out.println("John has "+ a + " Cars");
 
 	}
 
